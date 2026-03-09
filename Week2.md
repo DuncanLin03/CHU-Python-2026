@@ -59,11 +59,11 @@ print("Hello")
 
 ### P01-08 Swap  
 Expect a=5,b=3  
-** Pseudoswap **  
+**Pseudoswap**  
 a=b  
 b=a  
   
-** Real Swap **  
+**Real Swap**  
 temp=a  
 a=b  
 b=temp  
@@ -98,13 +98,13 @@ print("\n")
 print(10-5,10-a,b-a,sep="\n")  
 print("\n")  
   
-print(10*5,10*a,b*a,sep="\n")  
+print(10* 5,10 *a,b*a,sep="\n")  
 print("\n")  
   
 print(10/5,10/a,b/a,sep="\n")  
 print("\n")  
   
-print(10**5,10**a,b**a,sep="\n")  
+print(10 ** 5,10 ** a,b ** a,sep="\n")  
 print("\n")  
   
 temp=a  
