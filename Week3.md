@@ -11,4 +11,10 @@ print(f"Age {date.today().year-int(year)}")
 <img width="1063" height="207" alt="image" src="https://github.com/user-attachments/assets/1f12d888-ec7d-4a0b-a5a9-3a3a29eb4307" />  
 
 ### calculation practice
-<img width="552" height="686" alt="image" src="https://github.com/user-attachments/assets/e1133580-f03c-4087-a174-52d1ddff3e3a" />
+<img width="552" height="686" alt="image" src="https://github.com/user-attachments/assets/e1133580-f03c-4087-a174-52d1ddff3e3a" />  
+
+### Comparison
+<img width="285" height="433" alt="image" src="https://github.com/user-attachments/assets/1f09e3e9-6531-4c7a-b740-4c07af43943f" />  
+
+### And, or, not, nor, nand, xor  
+<img width="334" height="296" alt="image" src="https://github.com/user-attachments/assets/9e6fe674-4abc-4a03-b880-ea35d5453c8a" />
