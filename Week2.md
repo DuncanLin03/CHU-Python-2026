@@ -83,41 +83,53 @@ print(a,b)
 a,b=(5,3)  
 a,b=b,a  
 print(a,b)  
-<img width="188" height="148" alt="image" src="https://github.com/user-attachments/assets/46a1402a-c9a2-410f-9cf8-a0f566c4d7cb" />
+<img width="188" height="148" alt="image" src="https://github.com/user-attachments/assets/46a1402a-c9a2-410f-9cf8-a0f566c4d7cb" />  
 
 ## Practice
-print("2026","03","02",sep="-")  
-print("\n")  
+print("2026","03","02",sep="-")  ## Separate date with sep- ##  
+print("\n")  ## next line ##
   
-a=int(5)  
+a=int(5)  ## the initialization of int is not a must ##  
 b=int(10)  
 print("a =",a,"b =",b)  
-print(10+5,10+a,b+a,sep="\n")  
+print(10+5,10+a,b+a,sep="\n")  ## add ##  
 print("\n")  
   
-print(10-5,10-a,b-a,sep="\n")  
+print(10-5,10-a,b-a,sep="\n")   ## subtract ##  
 print("\n")  
   
-print(10* 5,10 *a,b*a,sep="\n")  
+print(10 * 5,10 * a,b * a,sep="\n")  ## multiply ##  
 print("\n")  
   
-print(10/5,10/a,b/a,sep="\n")  
+print(10/5,10/a,b/a,sep="\n")  ## divide ##  
 print("\n")  
   
-print(10 ** 5,10 ** a,b ** a,sep="\n")  
+print(10 ** 5,10 ** a,b ** a,sep="\n")  ## square ##
 print("\n")  
   
-temp=a  
+temp=a  ## swap ##  
 a=b  
 b=temp  
   
-print("a =",a,"b =",b)  
+print("a =",a,"b =",b)  ## print values after swap ##
   
 print(a ** b)  
   
 
-<img width="279" height="636" alt="image" src="https://github.com/user-attachments/assets/da0de407-90fa-47c9-9773-493a2605f831" />
-<img width="206" height="549" alt="image" src="https://github.com/user-attachments/assets/f234fc36-05d8-4c0c-a5ff-69d0bde409ca" />
+<img width="279" height="636" alt="image" src="https://github.com/user-attachments/assets/da0de407-90fa-47c9-9773-493a2605f831" />  
+<img width="206" height="549" alt="image" src="https://github.com/user-attachments/assets/f234fc36-05d8-4c0c-a5ff-69d0bde409ca" />  
 
-
+## Simplified Version  
+a,b=(5,10)  
+print(f"a = {a},b = {b}\n")  
+print(f"{10+5}\n{10+a}\n{b+a}\n")  
+print(f"{10-5}\n{10-a}\n{b-a}\n")  
+print(f"{10*5}\n{10*a}\n{b*a}\n")  
+print(f"{10/5}\n{10/a}\n{b/a}\n")  
+print(f"{10 ** 5}\n{10 ** a}\n{b ** a}\n")  
+a,b=b,a  
+print(f"a = {a},b = {b}")  
+print(f"{a**b}")  
+<img width="474" height="296" alt="image" src="https://github.com/user-attachments/assets/30c8b407-77a3-43a4-a10b-ac0c65723b91" />  
+<img width="182" height="574" alt="image" src="https://github.com/user-attachments/assets/076da32d-0376-4ea9-b6cc-21446c527ef0" />
 
