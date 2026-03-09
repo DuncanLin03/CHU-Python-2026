@@ -59,7 +59,7 @@ print("Hello")
 
 ### P01-08 Swap  
 Expect a=5,b=3  
-** Pseudoswap ** 
+** Pseudoswap **  
 a=b  
 b=a  
   
