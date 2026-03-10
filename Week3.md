@@ -40,7 +40,7 @@ print(f"Age {date.today().year-int(year)}")
 ### P01-20 Divider
 <img width="859" height="185" alt="image" src="https://github.com/user-attachments/assets/53bcd7f1-9835-48e1-9430-e3f4b1f68e36" />  
 
-### Self-introduction practice  
+### Self-Introduction Practice  
 from datetime import date  
 name,year = input("Enter name and birth year: ").split()  
 print(f"Hello, {name}")  
@@ -48,10 +48,41 @@ print(f"Birth Year: {year}")
 print(f"Age {date.today().year-int(year)}")  
 <img width="1063" height="207" alt="image" src="https://github.com/user-attachments/assets/1f12d888-ec7d-4a0b-a5a9-3a3a29eb4307" />  
 
+### 02-01 ~ 02-10 Calculations & Assignments
 
+<img width="590" height="245" alt="image" src="https://github.com/user-attachments/assets/789078a6-1b2d-4bef-b4e1-aafc57d9287d" />  
+<img width="550" height="497" alt="image" src="https://github.com/user-attachments/assets/931a06e4-b6eb-45c4-9d7d-b6ec5dd7fcfd" />  
+<img width="352" height="594" alt="image" src="https://github.com/user-attachments/assets/ec3c48dd-678f-48b4-a388-16c17659d4e2" />  
 
-### Comparison
+### 02-11 ~ 02-13 Comparison
 <img width="285" height="433" alt="image" src="https://github.com/user-attachments/assets/1f09e3e9-6531-4c7a-b740-4c07af43943f" />  
 
-### Logics: And, or, not, nor, nand, xor  
+### 02-14 ~ 02-16 Logics: And, or, not, nor, nand, xor  
 <img width="334" height="296" alt="image" src="https://github.com/user-attachments/assets/9e6fe674-4abc-4a03-b880-ea35d5453c8a" />
+
+### 02-17 Range Check  
+<img width="374" height="143" alt="image" src="https://github.com/user-attachments/assets/db9e8754-3ad6-4e21-9cb7-ee11b36a87ab" />   
+
+### 02-18,19 BMI Calculation  
+<img width="386" height="192" alt="image" src="https://github.com/user-attachments/assets/ba4da117-3884-43ca-aabe-22053523c10c" />  
+
+### 02-20 Boolean (0,1)  
+<img width="247" height="187" alt="image" src="https://github.com/user-attachments/assets/d3d77981-fb03-4bac-8e09-7d24144e23ed" />  
+
+## QUIZ  
+### Q02-01  
+<img width="380" height="187" alt="image" src="https://github.com/user-attachments/assets/1a3cf82f-ce3c-4ab3-9e6d-eab91f441afa" />  
+
+### Q02-02  
+<img width="641" height="154" alt="image" src="https://github.com/user-attachments/assets/b8d55007-e69d-4ed9-8a7d-f50cbbc04904" />  
+
+### Q02-03  
+<img width="455" height="120" alt="image" src="https://github.com/user-attachments/assets/e257f3d8-b1fc-4867-b000-e02fe2186b8e" />  
+
+### Q02-04  
+### Q02-05  
+### Q02-06  
+### Q02-07  
+### Q02-08  
+### Q02-09  
+### Q02-10  
