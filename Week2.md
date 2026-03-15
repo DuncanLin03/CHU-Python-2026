@@ -124,7 +124,7 @@ a,b=(5,10)
 print(f"a = {a},b = {b}\n")  
 print(f"{10+5}\n{10+a}\n{b+a}\n")  
 print(f"{10-5}\n{10-a}\n{b-a}\n")  
-print(f"{10*5}\n{10*a}\n{b*a}\n")  
+print(f"{10 * 5}\n{10 * a}\n{b * a}\n")  
 print(f"{10/5}\n{10/a}\n{b/a}\n")  
 print(f"{10 ** 5}\n{10 ** a}\n{b ** a}\n")  
 a,b=b,a  
