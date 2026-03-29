@@ -15,12 +15,15 @@
 <img width="535" height="308" alt="image" src="https://github.com/user-attachments/assets/45889165-f1b0-4a1d-b008-905e0831e6f8" />  
 
 ### 03-05 BMI and Weight Condition ###  
+https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK#scrollTo=zqPXJx-yqSvz&line=1&uniqifier=1
 <img width="809" height="316" alt="image" src="https://github.com/user-attachments/assets/5a74c709-a04d-4647-9729-30343f26fa5e" />  
 
 ### 03-06 Random Paper Scissors ###  
+https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK#scrollTo=SXjxkclxsoyG&line=1&uniqifier=1
 <img width="904" height="454" alt="image" src="https://github.com/user-attachments/assets/4eebf92f-8596-40db-aee3-0bd9c5348789" />  
 
 ### 03-07 COC TRPG Dice Rolling ###  
+https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK#scrollTo=4NDbXxZsxkEh&line=1&uniqifier=1
 <img width="1340" height="317" alt="image" src="https://github.com/user-attachments/assets/956f4f18-f4ea-4e8b-96e8-fd4873b795d5" />  
 <img width="1203" height="354" alt="image" src="https://github.com/user-attachments/assets/7b71a0b5-fdfb-497e-b892-608615eab123" />  
 <img width="1552" height="500" alt="image" src="https://github.com/user-attachments/assets/40ac17d0-e2c9-4da4-845a-60055982361b" />  
@@ -30,15 +33,18 @@
 <img width="893" height="113" alt="image" src="https://github.com/user-attachments/assets/a7c5f95d-640a-45dd-9918-4035627d3662" />  
 
 ### Q03-08 Random Lottery System ###  
+https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK#scrollTo=yF7V7WyYP-TM&line=3&uniqifier=1
 <img width="670" height="631" alt="image" src="https://github.com/user-attachments/assets/803a0db6-2911-450d-9518-8e9114306a27" />
 <img width="954" height="254" alt="image" src="https://github.com/user-attachments/assets/0b87b72a-0331-4abe-aa1a-7ca05fbb7994" />
 
 ### Q03-09 Mimic: Genshin Capturing Radiance Simulator (10 rolls) ###  
+https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK#scrollTo=RVRgm5ziZnrL&line=1&uniqifier=1
 * *Do not take it seriously! I have nothing to do with the rates cuz idk!*  
 <img width="799" height="409" alt="image" src="https://github.com/user-attachments/assets/0297d242-fc60-4385-bfc9-d95217b209f2" />
 <img width="430" height="221" alt="image" src="https://github.com/user-attachments/assets/47ce02ef-afd9-4e35-850a-349228b71a15" />  
 
 ### Q03-10 Categorizing Cyclones ### 
+https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK#scrollTo=dE0USmGXohyT&line=4&uniqifier=1
 <img width="1710" height="339" alt="image" src="https://github.com/user-attachments/assets/67885fad-f9e0-482f-9ef2-d72db7711472" />
 <img width="544" height="321" alt="image" src="https://github.com/user-attachments/assets/989320cd-23fa-4507-b34b-6b27c408e2e9" />
 <img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/8b842d75-7b9a-4508-8c6f-c932cd64dd02" />
