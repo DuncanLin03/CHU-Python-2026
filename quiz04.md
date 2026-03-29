@@ -42,6 +42,7 @@ https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK?usp=sh
 <img width="430" height="221" alt="image" src="https://github.com/user-attachments/assets/47ce02ef-afd9-4e35-850a-349228b71a15" />  
 
 ### Q03-10 Categorizing Cyclones ### 
+* *SSHWS Cat-4 (113-136) knots bottom cap changed to 112.5 for precision.*
 <img width="1742" height="439" alt="image" src="https://github.com/user-attachments/assets/aec55885-0f3e-488c-ab6b-fadebb1c847b" />
 <img width="544" height="321" alt="image" src="https://github.com/user-attachments/assets/989320cd-23fa-4507-b34b-6b27c408e2e9" />
 <img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/8b842d75-7b9a-4508-8c6f-c932cd64dd02" />
