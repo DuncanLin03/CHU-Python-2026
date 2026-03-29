@@ -15,4 +15,5 @@
 ### 03-05 BMI and Weight Condition ###  
 <img width="809" height="316" alt="image" src="https://github.com/user-attachments/assets/5a74c709-a04d-4647-9729-30343f26fa5e" />  
 
-
+### 03-06 Random Paper Scissors ###  
+<img width="904" height="454" alt="image" src="https://github.com/user-attachments/assets/4eebf92f-8596-40db-aee3-0bd9c5348789" />  
