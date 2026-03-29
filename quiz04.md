@@ -38,4 +38,9 @@
 <img width="799" height="409" alt="image" src="https://github.com/user-attachments/assets/0297d242-fc60-4385-bfc9-d95217b209f2" />
 <img width="430" height="221" alt="image" src="https://github.com/user-attachments/assets/47ce02ef-afd9-4e35-850a-349228b71a15" />  
 
+### Q03-10 Categorizing Cyclones ### 
+<img width="1710" height="339" alt="image" src="https://github.com/user-attachments/assets/67885fad-f9e0-482f-9ef2-d72db7711472" />
+<img width="544" height="321" alt="image" src="https://github.com/user-attachments/assets/989320cd-23fa-4507-b34b-6b27c408e2e9" />
+<img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/8b842d75-7b9a-4508-8c6f-c932cd64dd02" />
+<img width="782" height="435" alt="image" src="https://github.com/user-attachments/assets/5d9bdff5-3bb4-4321-996b-02c946267192" />
 
