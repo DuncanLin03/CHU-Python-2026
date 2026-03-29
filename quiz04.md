@@ -42,7 +42,7 @@ https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK?usp=sh
 <img width="430" height="221" alt="image" src="https://github.com/user-attachments/assets/47ce02ef-afd9-4e35-850a-349228b71a15" />  
 
 ### Q03-10 Categorizing Cyclones ### 
-<img width="1732" height="445" alt="image" src="https://github.com/user-attachments/assets/dcd71216-e5de-461b-8757-7c7d0f42b24a" />
+<img width="1729" height="449" alt="image" src="https://github.com/user-attachments/assets/23e4c677-fc83-45ac-8f2a-6952944128a1" />
 <img width="544" height="321" alt="image" src="https://github.com/user-attachments/assets/989320cd-23fa-4507-b34b-6b27c408e2e9" />
 <img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/8b842d75-7b9a-4508-8c6f-c932cd64dd02" />
 <img width="872" height="512" alt="image" src="https://github.com/user-attachments/assets/86cd0c8b-2bf7-4fe2-bc2c-429ebe0116ed" />
