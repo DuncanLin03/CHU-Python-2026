@@ -1,4 +1,5 @@
 # PY Week 6 #
+## Dictionary ##
 ### P06-01,02 Create Dict & Access by Key ###  
 <img width="499" height="186" alt="image" src="https://github.com/user-attachments/assets/4fcabb76-da1b-4a6e-ae46-5ced5207c4b7" />  
 
@@ -16,3 +17,16 @@
 
 ### P06-10 Nested Dictionary ###
 <img width="522" height="327" alt="image" src="https://github.com/user-attachments/assets/4e230106-4634-4e52-a11f-51f0a2d4b823" />
+
+### P06-18 Dictionary Loop ###  
+<img width="414" height="113" alt="image" src="https://github.com/user-attachments/assets/9c0568cb-76e9-4ef2-b317-cb8f6517edf5" />
+
+## Set ##
+### P06-11~13 Set Create / Add / Remove
+<img width="360" height="241" alt="image" src="https://github.com/user-attachments/assets/d0be709a-fc60-4e4b-a61c-75d7b45a2b51" />
+
+### P06-14 Set Unique (Remove Duplicates) ###
+<img width="268" height="103" alt="image" src="https://github.com/user-attachments/assets/ce889bbe-d069-483b-a7d0-446e4fc57dba" />
+
+### P06-15~17 Operands: Union, Intersection, Difference ###
+<img width="284" height="190" alt="image" src="https://github.com/user-attachments/assets/547e64e2-8689-4967-bcee-ab58c98c77c1" />
