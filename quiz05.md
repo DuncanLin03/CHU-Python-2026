@@ -1,3 +1,6 @@
+# Quiz 05 #
+#### * COLAB LINK * ####
+https://colab.research.google.com/drive/103FYMbUOw2sFSL_vYMkuf6eWOMg70f2o?usp=sharing
 ### Q04-01 Guess Number ###
 <img width="761" height="613" alt="image" src="https://github.com/user-attachments/assets/cce1010d-087d-466a-b536-478bd0df3b13" />  
 
