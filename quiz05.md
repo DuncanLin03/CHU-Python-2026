@@ -10,3 +10,8 @@
 
 ### Q04-03 Prime Number Check ###
 <img width="797" height="472" alt="image" src="https://github.com/user-attachments/assets/dfd17ee8-5b51-4a03-a770-a15ce4b927a8" />
+
+### Q04-04~06 Pyramids ###
+<img width="619" height="211" alt="image" src="https://github.com/user-attachments/assets/af09ac6e-fe59-4627-8b8e-4830561fea9d" />  
+<img width="607" height="165" alt="image" src="https://github.com/user-attachments/assets/054ddf76-4e8d-44d2-b2ca-cc7aef8c83b4" />  
+<img width="508" height="290" alt="image" src="https://github.com/user-attachments/assets/df2a4b4d-4671-4345-9d09-e53704197597" />
