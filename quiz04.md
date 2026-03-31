@@ -12,7 +12,7 @@ https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK?usp=sh
 ### 03-03 Calculator ###  
 
 <img width="597" height="557" alt="image" src="https://github.com/user-attachments/assets/b1e6f65f-3b22-465c-99c8-48b2a631ef63" />   
-<img width="299" height="316" alt="image" src="https://github.com/user-attachments/assets/090c20c8-150f-4549-8a0b-eab71b530ae3" />   
+<img width="602" height="279" alt="image" src="https://github.com/user-attachments/assets/723a1fea-81d0-473a-81bc-5aa1c8c7b3e3" />
 
 ### 03-04 Order ###  
 <img width="535" height="308" alt="image" src="https://github.com/user-attachments/assets/45889165-f1b0-4a1d-b008-905e0831e6f8" />  
