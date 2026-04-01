@@ -32,14 +32,31 @@
 <img width="647" height="91" alt="image" src="https://github.com/user-attachments/assets/9a90c9bb-5951-4622-afdb-ae0932a3ba96" />
 
 ### P05-11,12 Slicing ### 
+<img width="644" height="284" alt="image" src="https://github.com/user-attachments/assets/200f5141-8754-4ddf-9993-3f3dd89e8ae3" />
 
 ### P05-13 Loop List ### 
+<img width="501" height="169" alt="image" src="https://github.com/user-attachments/assets/ae7ea001-fc49-4d45-b8f8-9602b673f0c2" />
+
 ### P05-14 Check items ### 
+<img width="494" height="129" alt="image" src="https://github.com/user-attachments/assets/67425499-8321-4010-af5b-4baef967b3f3" />
+
 ### P05-15 Check Position In List ### 
+<img width="358" height="66" alt="image" src="https://github.com/user-attachments/assets/5c43c9b3-5294-4d2b-9d5d-51dd3326f6e5" />
+
 ### P05-16 Count ### 
+<img width="395" height="123" alt="image" src="https://github.com/user-attachments/assets/dfe75dc0-bb6c-49eb-9840-2833c33f04a1" />
+
 ## Tuple ##
 ### P05-17 Tuple Initialization ### 
+<img width="323" height="86" alt="image" src="https://github.com/user-attachments/assets/812f83ac-add1-4491-98fc-fdbc9fa07d23" />
+
 ### P05-18 Tuple Unpack ### 
+<img width="296" height="86" alt="image" src="https://github.com/user-attachments/assets/bbe642a5-17f3-407b-97a2-ef37acff45b6" />
+
 ### P05-19 List to Tuple ### 
+<img width="701" height="92" alt="image" src="https://github.com/user-attachments/assets/c71d5973-abd9-4a8d-adbd-a9d401246f46" />
+
 ## Clear ##
 ### P05-20 Clear ### 
+<img width="219" height="91" alt="image" src="https://github.com/user-attachments/assets/823c42bd-e1ae-46eb-9442-09d33ca95707" />
+
