@@ -39,3 +39,8 @@
 <img width="406" height="197" alt="image" src="https://github.com/user-attachments/assets/36707250-5bd8-4ca0-8570-77391a58bb17" />
 
 ### P07-03,04 Return Value ###
+<img width="894" height="166" alt="image" src="https://github.com/user-attachments/assets/1f217b09-d64a-4e43-a172-170ce6db6402" />
+
+### P07-05 Docstring ###
+<img width="489" height="221" alt="image" src="https://github.com/user-attachments/assets/f7391c5f-c147-412e-baa4-c89db2df306b" />
+
