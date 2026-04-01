@@ -30,3 +30,12 @@
 
 ### P06-15~17 Operands: Union, Intersection, Difference ###
 <img width="284" height="190" alt="image" src="https://github.com/user-attachments/assets/547e64e2-8689-4967-bcee-ab58c98c77c1" />
+
+## Python Function ##
+### P07-01 def ###
+<img width="264" height="133" alt="image" src="https://github.com/user-attachments/assets/63d879c1-8664-40ce-8951-4bc58f4f8ee3" />
+
+### P07-02 Parameters in def ###
+<img width="406" height="197" alt="image" src="https://github.com/user-attachments/assets/36707250-5bd8-4ca0-8570-77391a58bb17" />
+
+### P07-03,04 Return Value ###
