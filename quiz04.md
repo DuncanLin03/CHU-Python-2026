@@ -1,29 +1,29 @@
 # Quiz 04 #
 #### * COLAB LINK * ####
 https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK?usp=sharing  
-### 03-01 Leap Year ###  
+### Q03-01 Leap Year ###  
 <img width="767" height="220" alt="image" src="https://github.com/user-attachments/assets/7948823f-7c36-48fa-9261-53dc0e96c4ea" />  
 
-### 03-02 Max of 3 ###  
+### Q03-02 Max of 3 ###  
 * *Do not use "max" as a variable like I did at first! failed debugs badly at Q03-07 as I used "max" function there...*  
 <img width="589" height="272" alt="image" src="https://github.com/user-attachments/assets/bbddc393-d406-4845-9a92-27de2db57dcd" />  
 
 
-### 03-03 Calculator ###  
+### Q03-03 Calculator ###  
 
 <img width="597" height="557" alt="image" src="https://github.com/user-attachments/assets/b1e6f65f-3b22-465c-99c8-48b2a631ef63" />   
 <img width="602" height="279" alt="image" src="https://github.com/user-attachments/assets/723a1fea-81d0-473a-81bc-5aa1c8c7b3e3" />
 
-### 03-04 Order ###  
+### Q03-04 Order ###  
 <img width="535" height="308" alt="image" src="https://github.com/user-attachments/assets/45889165-f1b0-4a1d-b008-905e0831e6f8" />  
 
-### 03-05 BMI and Weight Condition ###  
+### Q03-05 BMI and Weight Condition ###  
 <img width="809" height="316" alt="image" src="https://github.com/user-attachments/assets/5a74c709-a04d-4647-9729-30343f26fa5e" />  
 
-### 03-06 Random Paper Scissors ###  
+### Q03-06 Random Paper Scissors ###  
 <img width="904" height="454" alt="image" src="https://github.com/user-attachments/assets/4eebf92f-8596-40db-aee3-0bd9c5348789" />  
 
-### 03-07 COC TRPG Dice Rolling ###  
+### Q03-07 COC TRPG Dice Rolling ###  
 <img width="1340" height="317" alt="image" src="https://github.com/user-attachments/assets/956f4f18-f4ea-4e8b-96e8-fd4873b795d5" />  
 <img width="1203" height="354" alt="image" src="https://github.com/user-attachments/assets/7b71a0b5-fdfb-497e-b892-608615eab123" />  
 <img width="1552" height="500" alt="image" src="https://github.com/user-attachments/assets/40ac17d0-e2c9-4da4-845a-60055982361b" />  
