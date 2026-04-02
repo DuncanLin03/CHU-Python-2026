@@ -68,21 +68,3 @@ print(f"Age {date.today().year-int(year)}")
 
 ### 02-20 Boolean (0,1)  
 <img width="247" height="187" alt="image" src="https://github.com/user-attachments/assets/d3d77981-fb03-4bac-8e09-7d24144e23ed" />  
-
-## QUIZ  
-### Q02-01  
-<img width="380" height="187" alt="image" src="https://github.com/user-attachments/assets/1a3cf82f-ce3c-4ab3-9e6d-eab91f441afa" />  
-
-### Q02-02  
-<img width="641" height="154" alt="image" src="https://github.com/user-attachments/assets/b8d55007-e69d-4ed9-8a7d-f50cbbc04904" />  
-
-### Q02-03  
-<img width="455" height="120" alt="image" src="https://github.com/user-attachments/assets/e257f3d8-b1fc-4867-b000-e02fe2186b8e" />  
-
-### Q02-04  
-### Q02-05  
-### Q02-06  
-### Q02-07  
-### Q02-08  
-### Q02-09  
-### Q02-10  
