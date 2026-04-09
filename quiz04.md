@@ -33,8 +33,8 @@ https://colab.research.google.com/drive/1LsUP89tRjPp8YQ_iAcBQ91hkX9QuESoK?usp=sh
 <img width="893" height="113" alt="image" src="https://github.com/user-attachments/assets/a7c5f95d-640a-45dd-9918-4035627d3662" />  
 
 ### Q03-08 Random Lottery System ###  
-<img width="670" height="631" alt="image" src="https://github.com/user-attachments/assets/803a0db6-2911-450d-9518-8e9114306a27" />
-<img width="954" height="254" alt="image" src="https://github.com/user-attachments/assets/0b87b72a-0331-4abe-aa1a-7ca05fbb7994" />
+<img width="746" height="611" alt="image" src="https://github.com/user-attachments/assets/943f96f7-6068-4aa0-acf7-dac94ab41b26" />
+<img width="450" height="216" alt="image" src="https://github.com/user-attachments/assets/4200d63b-3f21-46a2-8f29-3579586ec0d8" />
 
 ### Q03-09 Mimic: Genshin Capturing Radiance Simulator (10 rolls) ###  
 * *Do not take it seriously! I have nothing to do with the rates cuz idk!*  
