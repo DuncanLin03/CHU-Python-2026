@@ -19,11 +19,13 @@
 <img width="657" height="606" alt="image" src="https://github.com/user-attachments/assets/fec88d87-5881-460e-af16-7d1e2f8bb101" />
 
 ### Lab 12: Pentagon
-<img width="693" height="640" alt="image" src="https://github.com/user-attachments/assets/93c47e50-ed26-4a9e-9fd1-dba36659aac3" />
+<img width="654" height="588" alt="image" src="https://github.com/user-attachments/assets/5e8e2b20-aad7-41f2-ab21-ae19f492a172" />
 
 ### Lab 13: Octagon
+<img width="683" height="664" alt="image" src="https://github.com/user-attachments/assets/ecdc8dad-63dd-4d30-afde-17657db3e651" />
 
 ### Lab 14: Pen Up and Pen Down
+<img width="735" height="462" alt="image" src="https://github.com/user-attachments/assets/1581bf80-f71f-453e-9c4d-6521ccaeb809" />
 
 ### Lab 15: Stairs
 <img width="1010" height="513" alt="image" src="https://github.com/user-attachments/assets/a87f41b5-f189-4d91-8d0a-f26d8ce059d1" />
