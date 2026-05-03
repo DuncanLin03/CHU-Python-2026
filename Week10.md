@@ -41,11 +41,11 @@
 <img width="424" height="106" alt="image" src="https://github.com/user-attachments/assets/179b7ac8-86ae-4051-9b83-c9fa8bdf4576" />
 
 Example Drawing:
-<img width="387" height="95" alt="image" src="https://github.com/user-attachments/assets/54062ba6-3ca9-4bb8-b3b8-1adacc814fa2" />
+<img width="278" height="94" alt="image" src="https://github.com/user-attachments/assets/ebedffeb-6e57-4dda-a1ea-ed9f373b4a6c" />
 <img width="665" height="522" alt="image" src="https://github.com/user-attachments/assets/880c98e6-5d62-4760-ac66-26bd757163ac" />
 
 ### T17 X Rainbow
-<img width="370" height="96" alt="image" src="https://github.com/user-attachments/assets/5784a8e9-1e25-4ba0-8602-cfd2ab85243e" />
+<img width="278" height="86" alt="image" src="https://github.com/user-attachments/assets/3777fc79-3c4e-4c8a-b10f-038116ac84ca" />
 <img width="599" height="572" alt="image" src="https://github.com/user-attachments/assets/7578dc19-9a32-4c64-a99a-e90e219b9f87" />
 
 ### T18: Rainbow Line
@@ -79,7 +79,7 @@ Example Drawing:
 <img width="322" height="171" alt="image" src="https://github.com/user-attachments/assets/de3e2c42-ecfe-4a52-8e45-6a2f3b577631" />
 
 ### Lab 26, Lab 29 + Practice: The "Scatter"
-<img width="751" height="522" alt="image" src="https://github.com/user-attachments/assets/19cc2c94-3aa9-45a0-b002-84d0f2762360" />
+<img width="765" height="230" alt="image" src="https://github.com/user-attachments/assets/75d253bc-edcb-4182-ab26-298634608343" />
 <img width="495" height="449" alt="image" src="https://github.com/user-attachments/assets/d5462d10-2552-45ea-afc1-658b52c973d6" />
 
 ### Lab 27-28: Drawing Flower
