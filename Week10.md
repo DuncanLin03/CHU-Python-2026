@@ -78,14 +78,19 @@ Example Drawing:
 <img width="497" height="154" alt="image" src="https://github.com/user-attachments/assets/240e3ca3-5666-4b6d-87df-52d9ffdb67d2" />
 <img width="322" height="171" alt="image" src="https://github.com/user-attachments/assets/de3e2c42-ecfe-4a52-8e45-6a2f3b577631" />
 
-### Lab 26 + Practice: The "Scatter"
+### Lab 26, Lab 29 + Practice: The "Scatter"
 <img width="751" height="522" alt="image" src="https://github.com/user-attachments/assets/19cc2c94-3aa9-45a0-b002-84d0f2762360" />
 <img width="495" height="449" alt="image" src="https://github.com/user-attachments/assets/d5462d10-2552-45ea-afc1-658b52c973d6" />
+
+### Lab 27-28: Drawing Flower
+<img width="641" height="494" alt="image" src="https://github.com/user-attachments/assets/909195c5-6f11-4d61-bc8f-daa6be91a75a" />
+
+### Lab 30: Finale
+<img width="593" height="656" alt="image" src="https://github.com/user-attachments/assets/d22322e3-6070-4802-abd3-7aa18a532dbc" />
 
 ### Practice: Draw "CHU"
 <img width="275" height="454" alt="image" src="https://github.com/user-attachments/assets/760689b6-3d07-458c-9349-73032f310927" />
 <img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/74ed8d97-82ac-4a5c-920f-8494b878ebf2" />
-
 
 ### Practice: Draw Trees
 <img width="577" height="605" alt="image" src="https://github.com/user-attachments/assets/7da90f3a-6bcd-4cdf-8957-6e43b7151a60" />
