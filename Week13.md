@@ -1,4 +1,6 @@
 # PY Week 13
+### * COLAB LINK *
+https://colab.research.google.com/drive/15BzCZBRsWQpK1Z0D6vCJF58o8C2lz4Pm?usp=sharing
 ## Import & Check
 ### Imports & font
 <img width="620" height="475" alt="image" src="https://github.com/user-attachments/assets/d835d90c-5bfb-44ed-a514-b3b75315c13d" />  
